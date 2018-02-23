@@ -1,4 +1,8 @@
 .jumbotron {
-  background-color: purple;
-  text-align: center;
+  background-image: url(../images/pingpong.jpg);
+  background-repeat: no-repeat;
+  image-orientation: fill;
+  background-size: cover;
 }
+
+.rules {}

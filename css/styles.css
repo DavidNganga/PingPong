@@ -1,7 +1,17 @@
 .jumbotron {
   background-repeat: no-repeat;
-  image-orientation: fill;
-  background-size: cover;
+  color: pink;
 }
 
-.rules {}
+.rules {
+  padding-bottom: 50%;
+}
+
+.aside {
+  align-content: center;
+  color: purple;
+}
+
+.background {
+  background-color: black;
+}

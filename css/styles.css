@@ -1,10 +1,15 @@
 .jumbotron {
   background-repeat: no-repeat;
-  color: pink;
+  text-decoration-color: purple;
+  align-items: center;
 }
 
 .rules {
-  padding-bottom: 50%;
+  color: red;
+}
+
+.work {
+  color: red;
 }
 
 .aside {
@@ -14,4 +19,8 @@
 
 .background {
   background-color: black;
+}
+
+body {
+  background-color: purple;
 }

@@ -1,7 +1,12 @@
 .jumbotron {
   background-repeat: no-repeat;
-  text-decoration-color: purple;
+  text-decoration-color: red;
   align-items: center;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
 }
 
 .rules {

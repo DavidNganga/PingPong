@@ -1,8 +1,6 @@
 .jumbotron {
   background-repeat: no-repeat;
-  text-decoration-color: red;
-  align-items: center;
-  text-align: center;
+  justify-content: center;
 }
 
 h1 {
@@ -19,13 +17,13 @@ h1 {
 
 .aside {
   align-content: center;
-  color: purple;
 }
 
 .background {
   background-color: black;
 }
 
-body {
-  background-color: purple;
+.container {
+  justify-content: center;
+  color: red;
 }
